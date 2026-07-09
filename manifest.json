@@ -4,7 +4,7 @@
   "_pse_launcher_note": "Set listings.pse-launcher.version to match services/version.py APP_VERSION (and the built PSELauncher.exe FileVersion). When they match, this app will not prompt for a self-update.",
   "listings": {
     "pse-launcher": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "download_url": ""
     },
     "desigo2abt": {
