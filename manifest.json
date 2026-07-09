@@ -3,7 +3,7 @@
   "updated_at": "2026-07-09",
   "listings": {
     "desigo2abt": {
-      "version": "2.1.18",
+      "version": "2.1.17",
       "download_url": "https://yourtenant.sharepoint.com/sites/PSE/..."
     },
     "fast-forward-estimator": {
@@ -11,7 +11,7 @@
       "download_url": "https://yourtenant.sharepoint.com/sites/PSE/..."
     },
     "project-input-utility": {
-      "version": "1.1.1",
+      "version": "1.1.0",
       "download_url": "https://yourtenant.sharepoint.com/sites/PSE/..."
     }
   }
