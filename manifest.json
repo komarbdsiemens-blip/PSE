@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
-  "updated_at": "2026-07-09",
+  "updated_at": "2026-07-13",
   "_pse_launcher_note": "Set listings.pse-launcher.version to match services/version.py APP_VERSION (and the built PSELauncher.exe FileVersion). When they match, this app will not prompt for a self-update.",
   "listings": {
     "pse-launcher": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "download_url": "https://siemensnam.sharepoint.com/:u:/r/teams/PSECentral/Shared%20Documents/Automation/Tools_Utilities/PSE%20Launcher/PSELauncher.exe?&download=1"
     },
     "desigo2abt": {
@@ -18,6 +18,22 @@
     "project-input-utility": {
       "version": "1.1.0",
       "download_url": "https://siemensnam.sharepoint.com/:u:/r/teams/PSECentral/Shared%20Documents/Automation/Tools_Utilities/Project%20Input%20Utility/ProjectInputUtility.exe?&download=1"
+    },
+    "abt-application-logger": {
+      "version": "1.0.2",
+      "download_url": "https://siemensnam.sharepoint.com/:u:/r/teams/PSECentral/Shared%20Documents/Automation/Tools_Utilities/ABT%20Application%20Logger/ABT%20Application%20Logger.exe?&download=1"
+    },
+    "abt-application-rebuild": {
+      "version": "1.0.2",
+      "download_url": "https://siemensnam.sharepoint.com/:u:/r/teams/PSECentral/Shared%20Documents/Automation/Tools_Utilities/ABT%20Application%20Rebuild/ABT%20Application%20Rebuild.exe?&download=1"
+    },
+    "dxr-certificate-cleaner": {
+      "version": "1.0.0",
+      "download_url": "https://siemensnam.sharepoint.com/:u:/r/teams/PSECentral/Shared%20Documents/Automation/Tools_Utilities/DXR%20Certificate%20Cleaner/DXR%20Certificate%20Cleaner.exe?&download=1"
+    },
+    "pxc-engineering": {
+      "version": "1.3.0",
+      "download_url": "https://siemensnam.sharepoint.com/:u:/r/teams/PSECentral/Shared%20Documents/Automation/Tools_Utilities/PXC_Engineering_Release/PXC%20Engineering.exe?&download=1"
     }
   }
 }
