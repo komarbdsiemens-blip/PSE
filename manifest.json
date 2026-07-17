@@ -4,7 +4,7 @@
   "_pse_launcher_note": "Set listings.pse-launcher.version to match services/version.py APP_VERSION (and the built PSELauncher.exe FileVersion). When they match, this app will not prompt for a self-update.",
   "listings": {
     "pse-launcher": {
-      "version": "1.2.2",
+      "version": "1.2.3",
       "download_url": "https://siemensnam.sharepoint.com/:u:/r/teams/PSECentral/Shared%20Documents/Automation/Tools_Utilities/PSE%20Launcher/PSELauncher.exe?&download=1"
     },
     "desigo2abt": {
